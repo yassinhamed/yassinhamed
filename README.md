@@ -37,7 +37,7 @@ Here you’ll find my projects, repositories, and contributions to the developer
 - 📧 **Email:** [yassinhamed456@gmail.com](mailto:yassinhamed456@gmail.com)  
 - 🌐 **Portfolio/Website:** [yassinh.git.com](http://yassinh.git.com)  
 - 🐦 **Twitter/X:** [@yourusername](https://twitter.com/yourusername)  
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- 💼 **LinkedIn:** [yassin hamed](https://www.linkedin.com/in/yassin-hamed-197b15235/)  
 
 ---
 
