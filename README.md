@@ -18,7 +18,7 @@ Here you’ll find my projects, repositories, and contributions to the developer
 - 👨‍💻 **Profession:** Software Engineer  
 - 🌍 **Location:** Tunisia  
 - 📚 **Interests:** AI & Machine Learning 🤖 | Web Development 🌐 | Data Science 📊 | Open Source 🌍  
-- 🎓 **Education:** [Your Degree/Field] – [Your Institution]  
+- 🎓 **Education:** [software engineer] – [polytech monastir]  
 
 ---
 
